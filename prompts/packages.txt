@@ -1,0 +1,1 @@
+Create a 'Travel Packages' page for a travel guide app. Display a grid of package cards, each with an image, title, and price. Each card should have an 'Add to Plan' button. The layout should be responsive, with 3 columns on desktop. Use a clean, modern style with rounded corners and subtle shadows. Add a main heading at the top. Use Tailwind CSS for styling.

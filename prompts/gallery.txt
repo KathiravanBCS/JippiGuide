@@ -1,0 +1,1 @@
+Design a 'Gallery' page for a travel guide app. Show a grid of images representing travel destinations or experiences. Use a responsive layout with 2 columns on mobile and 4 on desktop. Each image should be displayed in a rounded card with a slight shadow and should scale up a bit on hover. Add a main heading at the top. Use Tailwind CSS for styling.

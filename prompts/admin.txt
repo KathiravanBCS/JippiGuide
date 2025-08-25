@@ -1,0 +1,1 @@
+Create an 'Admin Dashboard' page for a travel guide app. Allow admin users to view and manage data tables (e.g., places, packages, users). Each section should have a title, a list of items, and a form to add new items. The UI should be simple, clean, and responsive. Use Tailwind CSS for styling.

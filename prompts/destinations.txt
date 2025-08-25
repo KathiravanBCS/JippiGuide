@@ -1,0 +1,1 @@
+Create a 'Destinations' page for a travel guide app. Display a grid of destination cards, each with an image, title, and subtitle. Each card should have a link to explore the destination on the map. Use a responsive layout with 2-3 columns on larger screens. Add a main heading at the top. Use Tailwind CSS for styling.

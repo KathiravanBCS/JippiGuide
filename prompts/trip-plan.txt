@@ -1,0 +1,1 @@
+Create a 'Trip Plan' page for a travel guide app. Show a summary of the user's selected itinerary, including a map of the route and a list of destinations. Display total distance and number of stops. Allow users to clear or remove items from the plan. Use a clean, modern layout with responsive design. Use Tailwind CSS for styling.

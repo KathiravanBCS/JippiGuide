@@ -1,0 +1,1 @@
+Build a 'Travelers' testimonials page for a travel guide app. Show a grid of cards, each with a traveler's image, name, and role (e.g., Backpacker, Solo Explorer, Photographer). Add a main heading and a short description at the top. Use a clean, modern, and responsive layout with Tailwind CSS.

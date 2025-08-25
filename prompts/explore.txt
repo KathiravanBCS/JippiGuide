@@ -1,0 +1,1 @@
+Design an 'Explore' page for a travel guide app. Show a map with points of interest (POIs) that can be filtered by category (all, restaurant, cafe, hotel, park, attraction, transport). Allow users to search for locations and view details for each POI. The UI should be interactive, with a responsive layout and modern design. Use Tailwind CSS for styling.
