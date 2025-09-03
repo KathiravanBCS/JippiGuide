@@ -59,10 +59,7 @@ export default function PlannerPage() {
   const { add } = useItinerary()
   const { setOpen } = usePlanUI()
 
-  // Simple in-memory cache for POIs
-  // (removed unused poiCache)
 
-  // Geolocate user early
   useEffect(() => {
     if (!navigator.geolocation) return
     navigator.geolocation.getCurrentPosition(
